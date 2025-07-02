@@ -16,7 +16,6 @@
 *.dbmdl
 
 # UWP auto-generated files
-Package.appxmanifest
 AppPackages/
 *.appx
 *.appxbundle
