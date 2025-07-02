@@ -1,0 +1,52 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio 2017/2019/2022 cache/options directory
+.vs/
+.vscode/
+
+# Windows image file caches
+*.dbmdl
+
+# UWP auto-generated files
+Package.appxmanifest
+AppPackages/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.msixupload
+*.appxupload
+
+# Build logs
+*.log
+
+# NuGet packages
+*.nupkg
+# The packages folder can be ignored if you use package restore
+packages/
+# NuGet v3's project.json files produces this folder
+project.lock.json
+project.fragment.lock.json
+
+# Windows Store metadata
+AppxPackages/
+*.appxrecipe
+
+# Others
+*.pfx
+*.publishsettings
+
+# Crash dumps
+*.dmp
+
+# Rider
+.idea/
+*.sln.iml
