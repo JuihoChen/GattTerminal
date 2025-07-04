@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
-  <Identity Name="a3b8a494-cb3e-4fce-943b-a7c7b25f8a0b" Publisher="CN=Juiho" Version="0.5.2.0" />
+  <Identity Name="a3b8a494-cb3e-4fce-943b-a7c7b25f8a0b" Publisher="CN=juiho" Version="0.5.2.0" />
   <mp:PhoneIdentity PhoneProductId="a3b8a494-cb3e-4fce-943b-a7c7b25f8a0b" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
     <DisplayName>GattTerminal</DisplayName>
